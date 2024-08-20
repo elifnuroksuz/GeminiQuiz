@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Existing colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Blue shades -->
+    <color name="blue_500">#2196F3</color> <!-- Main blue -->
+    <color name="blue_400">#42A5F5</color> <!-- Lighter blue -->
+    <color name="blue_300">#64B5F6</color> <!-- Even lighter blue -->
+    <color name="blue_200">#90CAF9</color> <!-- Light blue -->
+    <color name="blue_100">#BBDEFB</color> <!-- Very light blue -->
+    <color name="blue_50">#E3F2FD</color>  <!-- Pale blue -->
+
+    <!-- Darker shades -->
+    <color name="blue_600">#1E88E5</color> <!-- Darker blue -->
+    <color name="blue_700">#1976D2</color> <!-- Even darker blue -->
+    <color name="blue_800">#1565C0</color> <!-- Much darker blue -->
+    <color name="blue_900">#0D47A1</color> <!-- Dark blue -->
+
+    <!-- Additional tones -->
+    <color name="blue_gray_500">#607D8B</color> <!-- Blue-gray -->
+    <color name="blue_gray_400">#78909C</color> <!-- Lighter blue-gray -->
+    <color name="blue_gray_300">#90A4AE</color> <!-- Even lighter blue-gray -->
+    <color name="blue_gray_200">#B0BEC5</color> <!-- Light blue-gray -->
+    <color name="blue_gray_100">#CFD8DC</color> <!-- Very light blue-gray -->
+    <color name="blue_gray_50">#ECEFF1</color>  <!-- Pale blue-gray -->
+</resources>

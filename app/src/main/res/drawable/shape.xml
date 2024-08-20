@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Renk ayarları -->
+    <solid android:color="#64B5F6" /> <!-- Dikdörtgenin iç rengi, burada mavi -->
+
+    <!-- Kenar boşlukları -->
+    <padding
+        android:left="16dp"
+        android:top="16dp"
+        android:right="16dp"
+        android:bottom="16dp" />
+
+    <!-- Kenar çizgisi -->
+    <stroke
+        android:color="#FF000000"
+    android:width="2dp" />
+
+    <!-- Köşe yuvarlaklığı -->
+    <corners android:radius="8dp" /> <!-- Köşe yuvarlaklığı, burada 8dp -->
+
+    <!-- Köşe arka planı (isteğe bağlı) -->
+    <size
+        android:width="200dp"
+    android:height="100dp" /> <!-- Yükseklik -->
+</shape>
